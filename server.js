@@ -3,7 +3,7 @@ const html = require('./routes/html-routes')
 const api = require('./routes/api-routs')
 
 const app = express();
-const PORT = 4321;
+const PORT = 3000;
 
 app.use(express.static('public'));
 
