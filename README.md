@@ -18,6 +18,6 @@ This application will be used for personal notes management.
 
 
 ### Link
-You can see the deployed application at
+You can see the deployed application at https://notes-appppp-4b9727a888c3.herokuapp.com/
 You can see my Github profile at https://github.com/ivyreed ,
 and you can reach me for questions at https://idcfu788@gmail.com
